@@ -1,1 +1,350 @@
-# grafanamap
+[
+	{
+		"key" : "ACATM: Zabbix agent ping",
+		"name" : "Almirante Tamandaré",
+		"latitude" : -25.306707530455782,
+		"longitude" : -49.295708180661514
+	},
+	{
+		"key" : "ACBQ: Zabbix agent ping",  
+		"name" : "Boqueirão",
+		"latitude" : -25.495073454833058, 
+		"longitude" : -49.24107739801531
+	},
+	{
+		"key" : "ACCL: Zabbix agent ping",   
+		"name" : "Campo Largo",
+		"latitude" : -25.457816648348818, 
+		"longitude" : -49.529226271310236
+	},
+	{
+		"key" : "ACCLK: Zabbix agent ping",
+		"name" : "Campo Largo Kids",
+		"latitude" : -25.461497296978823,
+		"longitude" : -49.516713476882074
+	},
+	{
+		"key" : "ACFRG: Zabbix agent ping",
+		"name" : "Fazenda Rio Grande",
+		"latitude" : -25.643918967518985, 
+		"longitude" : -49.315961171330734
+	},
+	{
+		"key" : "ACPNH: Zabbix agent ping",
+		"name" : "Pinhais",
+		"latitude" : -25.418412427996245,
+		"longitude" : -49.18198440386928
+	},
+	{
+		"key" : "ACSF: Zabbix agent ping",
+		"name" : "Santa Felicidade",
+		"latitude" : -25.41035057728707,
+		"longitude" : -49.34593211166136
+	},
+	{
+		"key" : "ACSJP: Zabbix agent ping",
+		"name" : "São José do Pinhais",
+		"latitude" : -25.534167970647214,
+		"longitude" : -49.204182455990704
+	},
+	{
+		"key" : "CSCRJ: Zabbix agent ping",
+		"name": "CSC RJ",
+		"latitude" : -22.897900870133967,
+		"longitude" : -43.1805047789332
+	},
+	{
+		"key" : "CSCCWB1: Zabbix agent ping",
+		"name" : "CSC CWB",
+		"latitude" : -25.46250795090949,
+		"longitude" : -49.27852154308323
+	},
+	{
+		"key" : "UNI: Zabbix agent ping",
+		"name" : "Universitário",
+		"latitude" : -23.324346562851307, 
+		"longitude" : -51.17254915272981
+	},
+	{
+		"key" : "JPHIG: Zabbix agent ping",
+		"name" : "João Paulo Higienópolis",
+		"latitude" : -30.01707320299528,
+		"longitude" : -51.19315988266886
+	},
+	{
+		"key" : "CSCCWB2: Zabbix agent ping",
+		"name" : "CSC CWB2",
+		"latitude" : -25.412525298548726,
+		"longitude" : -49.26143787562615
+	},
+	{
+		"key" : "STMK: Zabbix agent ping",
+		"name" : "Stella Maris Xaxim Kids",
+		"latitude" : -25.504164683754354,
+		"longitude" : -49.27008583144367
+	},
+	{
+		"key" : "STMX: Zabbix agent ping",
+		"name" : "João Paulo Higienópolis",
+		"latitude" : -25.503713249140485,
+		"longitude" : -49.26978076398568
+	},
+	{
+		"key" : "PHUMZ: Zabbix agent ping",
+		"name" : "Physics Umarizal",
+		"latitude" : -1.4447826023482058,
+		"longitude" : -48.4792675740539
+	},
+	{
+		"key" : "PHCF: Zabbix agent ping",
+		"name" : "Physics Conselheiro Furtado",
+		"latitude" : -1.4572974930926614,
+		"longitude" : -48.48756212008736
+	},
+	{
+		"key" : "PHTC: Zabbix agent ping",
+		"name" : "Physics Três Corações",
+		"latitude" : -1.3763848930751423,
+		"longitude" : -48.414385156856596
+	},
+	{
+		"key": "PHAB: Zabbix agent ping",
+		"name": "Physics Almirante Barroso",
+		"latitude": -1.442054100700322,
+		"longitude": -48.462532729873146
+	},
+	{
+		"key": "PHBC: Zabbix agent ping",
+		"name": "Physics Batista Campos",
+		"latitude": -1.457999348212075,
+		"longitude": -48.49022797220093
+	},
+	{
+		"key": "PHMCP: Zabbix agent ping",
+		"name": "Physics Macapá",
+		"latitude": 0.03254123248832598,
+		"longitude": -51.06750409125225
+	},
+	{
+		"key": "OVMF: Zabbix agent ping",
+		"name": "Over Marcílio Furtado",
+		"latitude": -5.821586825435889,
+		"longitude": -35.21481848087367
+	},
+	{
+		"key": "CSCNTL2: Zabbix agent ping",
+		"name": "CSC NTL2",
+		"latitude": -5.879390324514152,
+		"longitude": -35.20752182061073 
+	},
+	{
+		"key": "OVNC: Zabbix agent ping",
+		"name": "Over Nascimento de Castro",
+		"latitude": -5.81875296853327, 
+		"longitude": -35.20587373727101 
+	},
+	{
+		"key": "OVPN: Zabbix agent ping",
+		"name": "Over Ponta Negra",
+		"latitude": -5.8677955314810175,
+		"longitude": -35.191849814514356
+	},
+	{
+		"key": "OVLS: Zabbix agent ping",
+		"name": "Over Lima e Silva",
+		"latitude": -5.823237275565402,
+		"longitude": -35.21566716131754
+	},
+	{
+		"key": "PRT: Zabbix agent ping",
+		"name": "Candido Portinari",
+		"latitude": -12.99645452967046,
+		"longitude": -38.44975945767984
+	},
+	{
+		"key": "CSCNTL1: Zabbix agent ping",
+		"name": "CSC NTL1",
+		"latitude": -5.827531780501009,
+		"longitude": -35.20587397033396
+	},
+	{
+		"key": "CCV: Zabbix agent ping",
+		"name": "Contemporâneo Cidade Verde",
+		"latitude": -5.892541455159956,
+		"longitude": -35.19747952192592
+	},
+	{
+		"key": "OVMO: Zabbix agent ping",
+		"name": "Over Mossoró",
+		"latitude": -5.180112540672001,
+		"longitude": -37.352815214517854
+	},
+	{
+		"key": "OVZN: Zabbix agent ping",
+		"name": "Over Zona Norte",
+		"latitude": -5.7582190705266925,
+		"longitude": -35.24728044705686
+	},
+	{
+		"key": "MMSD: Zabbix agent ping",
+		"name": "Marília Mattoso São Domingos",
+		"latitude": -22.899895034782464,
+		"longitude": -43.129143360334076
+	},
+	{
+		"key": "EEML: Zabbix agent ping",
+		"name": "Curso Elite Emiliano",
+		"latitude": -25.436387771934854,
+		"longitude": -49.27686932730537
+	},
+	{
+		"key": "DMS: Zabbix agent ping",
+		"name": "Domus Sapientiae",
+		"latitude": -23.588749673180097,
+		"longitude": -46.67484367566476
+	},
+	{
+		"key" : "ITA: Zabbix agent ping",
+		"name" : "Itamarati",
+		"latitude" : -21.208505240418035,
+		"longitude" : -47.79959764872748
+	},
+	{
+		"key" : "ENF: Zabbix agent ping",
+		"name" : "Curso Ênfase",
+		"latitude" : -1.4569261223542653,
+		"longitude" : -48.48566723480285
+	},
+	{
+		"key" : "PMORL: Zabbix agent ping",
+		"name" : "Primeiro Mundo Ourilândia",
+		"latitude" : -6.7611004676132636,
+		"longitude" : -51.07389161532938
+	},
+	{
+		"key" : "CSCMAO: Zabbix agent ping",
+		"name" : "Idaam Djalma Batista",
+		"latitude" : -3.0996068926262383,
+		"longitude" : -60.0242473028867
+	},
+	{
+		"key": "PHAM: Zabbix agent ping",
+		"name": "Physics Augusto Montenegro",
+		"latitude": -1.3511863697520003,
+		"longitude": -48.45301655685656
+	},
+	{
+		"key": "SMBOR: Zabbix agent ping",
+		"name": "Simbios Orestes Ribeiro",
+		"latitude": -16.702025667058976,
+		"longitude": -49.275121142738584
+	},
+	{
+		"key": "NTARL: Zabbix agent ping",
+		"name": "Novo Tempo Aureliano",
+		"latitude": -23.968353109292888,
+		"longitude": -46.317491489470704
+	},
+	{
+		"key": "PMCNA: Zabbix agent ping",
+		"name": "Primeiro Mundo CNA",
+		"latitude": -6.537772827428051,
+		"longitude": -49.852751758691255
+	},
+	{
+		"key": "PHCST: Zabbix agent ping",
+		"name": "Physics Castanhal",
+		"latitude": -1.297610529539974,
+		"longitude": -47.93007403172621
+	},	
+	{
+		"key" : "JPBLS: Zabbix agent ping",
+		"name" : "João Paulo BLS",
+		"latitude" : -30.064220944745635,
+		"longitude" : -51.23169407947458
+	},
+	{
+		"key": "NTBJM: Zabbix agent ping",
+		"name": "Novo Tempo Benjamin Constant",
+		"latitude": -23.972056685930724,
+		"longitude": -46.31780017285666
+	},
+	{
+		"key": "IDMDS: Zabbix agent ping",
+		"name": "Idaam Morada do Sol",
+		"latitude": -3.0994189944640316,
+		"longitude": -60.02405404767113
+	},
+	{
+		"key" : "MTS: Zabbix agent ping",
+		"name" : "Montessori Santa Teresinha",
+		"latitude" : -23.643664745946587,
+		"longitude" : -46.641776046827395
+	},
+	{
+		"key": "ANGGRV: Zabbix agent ping",
+		"name": "ANGLO Osasco",
+		"latitude": -23.5344389704318,
+		"longitude": -46.779079309081226
+	},
+	{
+		"key": "PMJP: Zabbix agent ping",
+		"name": "Primeiro Mundo João Pessoa",
+		"latitude": -7.10963798932033, 
+		"longitude": -34.82974865161161
+	},
+	{
+		"key": "ALPHA1: Zabbix agent ping",
+		"name": "Anglo Alphaville 1",
+		"latitude": -23.46588916122679, 
+		"longitude": -46.84570571777732
+	},
+	{
+		"key": "ALPHA2: Zabbix agent ping",
+		"name": "Anglo Alphaville 2",
+		"latitude": -23.492454944341798, 
+		"longitude": -46.842306484494
+	},
+	{
+		"key": "IDCCH: Zabbix agent ping",
+		"name": "Idaam Cachoeirinha",
+		"latitude": -3.1217334929171656,
+		"longitude": -60.002805569864904
+	},
+	{
+		"key": "IDCN: Zabbix agent ping",
+		"name": "Idaam Cidade Nova",
+		"latitude": -3.029677894771744,
+		"longitude": -59.97429438825284
+	},
+	{
+		"key": "IDPDZ: Zabbix agent ping",
+		"name": "Idaam Parque Dez",
+		"latitude": -3.0813667612756035,
+		"longitude": -60.01401187045183
+	},
+	{
+		"key": "IDTRQ: Zabbix agent ping",
+		"name": "Idaam Torquato Tapajos",
+		"latitude": -3.0042623692363426,
+		"longitude": -60.032825523577905
+	},
+	{
+		"key": "CSCSP: Zabbix agent availability",
+		"name": "CSC SP (Anglo Osasco)",
+		"latitude": -23.534554712321498, 
+		"longitude": -46.77913695281574
+	},
+	{
+		"key": "AGNVSFR: Zabbix agent ping",
+		"name": "Leonardo da Vinci - Vila São Francisco",
+		"latitude": -23.55327613764404, 
+		"longitude": -46.75951241496314
+	},
+	{
+		"key": "AGNBTT: Zabbix agent ping",
+		"name": "Leonardo da Vinci - Butantã",
+		"latitude": -23.599415458549228, 
+		"longitude": -46.74167918071598
+	}
+]
